@@ -8,7 +8,7 @@
         sudo apt update
         Basically showing things that can be updated
 
-    ![Update]("CyberSecurity_lab1_p1.png")
+    <img width="937" height="776" alt="CyberSecurity_lab1_p1" src="https://github.com/user-attachments/assets/e5f9b866-7b50-45b0-b488-9c9b3ff38214" />
 
 2.  Upgrade your system.
     Already did that once I using the command line for update. Upgrading the system that it will upgrade after entering the command line.
