@@ -8,12 +8,15 @@
         sudo apt update
         Basically showing things that can be updated
 
+    ![Update]("C:\Users\nirav\OneDrive\Pictures\Screenshots\CyberSecurity_lab1_p1.png")
+
 2.  Upgrade your system.
     Already did that once I using the command line for update. Upgrading the system that it will upgrade after entering the command line.
 
 3.  Reboot your system.
     It says it as its asked. Reboot!
     Reboots the system like a restart.
+    AKA sudo reboot
 
 ## User Tasks:
 
@@ -37,3 +40,20 @@
 1. I don't quite get what its specifically asking.
 
 2.
+
+3.
+
+4.
+
+5.
+
+## Permission and Access Control Lists:
+
+1. The owner of directory of lab1 is patelvraj-007 and group is also patelvraj-007. The permission the owner has write, execute,& read and the group has same as the owner in this case.
+
+2.
+
+3. The owner has read, write and execute permissions. The group has read and write permissions.
+   a. I wrote chmod 770 helloWorld. That was able to change the permission for the group to now being able to read, write and execute.
+
+4.
