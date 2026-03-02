@@ -8,7 +8,7 @@
         sudo apt update
         Basically showing things that can be updated
 
-    ![Update]("C:\Users\nirav\OneDrive\Pictures\Screenshots\CyberSecurity_lab1_p1.png")
+    ![Update]("CyberSecurity_lab1_p1.png")
 
 2.  Upgrade your system.
     Already did that once I using the command line for update. Upgrading the system that it will upgrade after entering the command line.
