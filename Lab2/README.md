@@ -82,3 +82,4 @@ The Differences is the dynamic linker ignore LD_PRELOAD for SET-UID program unle
 ## Task 9
 
 <img width="1311" height="543" alt="Cyber_HW3_2 9" src="https://github.com/user-attachments/assets/1e76073c-52d4-46ac-968d-a0463d19eeaa" />
+Created a tmp for the code to find the find when ran and then printed out “I am under the water!” then use the cat command to print out what is being printed as I initialized before it was read in the /etc/zzz file.
