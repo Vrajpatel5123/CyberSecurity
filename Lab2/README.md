@@ -78,3 +78,7 @@ The Differences is the dynamic linker ignore LD_PRELOAD for SET-UID program unle
 
 2. <img width="1326" height="277" alt="Cyber_HW3_2 8part1step2" src="https://github.com/user-attachments/assets/a686fad9-bd6b-4860-8916-2e275a0326c8" />
    The attack won't work. Why its because execve() doesn't invoke shell. It executes /bin/cat exactly with argv[1] passed as argument.
+
+## Task 9
+
+<img width="1311" height="543" alt="Cyber_HW3_2 9" src="https://github.com/user-attachments/assets/1e76073c-52d4-46ac-968d-a0463d19eeaa" />
